@@ -1,0 +1,4 @@
+Duc: leader
+Tan: coder
+Toan: coder
+Triet: designer
